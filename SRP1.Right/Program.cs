@@ -2,22 +2,6 @@
 
 namespace SRP1.Right
 {
-    class Book
-    {
-        public string Title { get; set; }
-        public string Author { get; set; }
-
-        public void TurnPage()
-        {
-            Console.WriteLine("Page turned.");
-        }
-
-        public string GetCurrentPageContent()
-        {
-           return "Current page content";
-        }
-    }
-
     class Program
     {
         static void Main(string[] args)
