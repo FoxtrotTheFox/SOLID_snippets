@@ -1,0 +1,5 @@
+C:\svluppo\misc\DIP.Wrong\start\DIP.Wrong\bin\Debug\DIP.Wrong.dll
+C:\svluppo\misc\DIP.Wrong\start\DIP.Wrong\bin\Debug\DIP.Wrong.pdb
+C:\svluppo\misc\DIP.Wrong\start\DIP.Wrong\obj\Debug\DIP.Wrong.csprojAssemblyReference.cache
+C:\svluppo\misc\DIP.Wrong\start\DIP.Wrong\obj\Debug\DIP.Wrong.dll
+C:\svluppo\misc\DIP.Wrong\start\DIP.Wrong\obj\Debug\DIP.Wrong.pdb
