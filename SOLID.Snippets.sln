@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SRP.Right", "SRP1.Right\SRP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCP.Wrong", "OCP.Wrong\OCP.Wrong.csproj", "{1FFBBBB7-DDE6-4BA5-BBBE-016DB945D30E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP.Wrong", "LSP\LSP.Wrong.csproj", "{F42E089B-01C4-476D-9676-5E86116159BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LSP.Wrong", "LSP.Wrong\LSP.Wrong.csproj", "{58F8B533-6934-4879-9B77-9057C673DFD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{1FFBBBB7-DDE6-4BA5-BBBE-016DB945D30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FFBBBB7-DDE6-4BA5-BBBE-016DB945D30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FFBBBB7-DDE6-4BA5-BBBE-016DB945D30E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F42E089B-01C4-476D-9676-5E86116159BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F42E089B-01C4-476D-9676-5E86116159BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F42E089B-01C4-476D-9676-5E86116159BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F42E089B-01C4-476D-9676-5E86116159BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58F8B533-6934-4879-9B77-9057C673DFD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F8B533-6934-4879-9B77-9057C673DFD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F8B533-6934-4879-9B77-9057C673DFD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F8B533-6934-4879-9B77-9057C673DFD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
