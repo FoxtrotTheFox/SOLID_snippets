@@ -13,7 +13,7 @@ namespace DIP.Right
             return new Person();
         }
 
-        public static IProject CreateChore()
+        public static IProject CreateProject()
         {
             return new Project(CreateLogger(), CreateMessageSender());
         }

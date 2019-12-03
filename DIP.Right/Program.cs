@@ -11,20 +11,18 @@ namespace DIP.Right
         static void Main(string[] args)
         {
             IPerson owner = Factory.CreatePerson();
+            owner.FirstName = "Bob";
+            owner.LastName = "Martin";
+            owner.EmailAddress = "bob@martin.com";
+            owner.PhoneNumber = "1111-222";
 
-            owner.FirstName = "Tim";
-            owner.LastName = "Corey";
-            owner.EmailAddress = "tim@iamtimcorey.com";
-            owner.PhoneNumber = "555-1212";
+            IProject project = Factory.CreateProject();
+            project.ProjectName = "android app";
+            project.Owner = owner;
 
-            IProject chore = Factory.CreateChore();
-            chore.ProjectName = "Take out the trash";
-            chore.Owner = owner;
-
-            chore.WorkOnproject(3);
-            chore.WorkOnproject(1.5);
-            chore.CompleteProject();
-
+            project.WorkOnproject(3);
+            project.WorkOnproject(1.5);
+            project.CompleteProject();
             Console.ReadLine();
         }
     }

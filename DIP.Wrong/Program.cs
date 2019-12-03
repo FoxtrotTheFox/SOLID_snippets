@@ -8,15 +8,15 @@ namespace DIP.Wrong
         {
             Person owner = new Person
             {
-                FirstName = "Tim",
-                LastName = "Corey",
-                EmailAddress = "tim@iamtimcorey.com",
-                PhoneNumber = "555-1212"
+                FirstName = "Bob",
+                LastName = "Martin",
+                EmailAddress = "bob@martin.com",
+                PhoneNumber = "111-222-333"
             };
 
             Project androidApp = new Project
             {
-                ProjectName = "Take out the trash",
+                ProjectName = "android app",
                 Owner = owner
             };
 
