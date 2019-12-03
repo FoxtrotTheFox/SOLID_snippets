@@ -1,0 +1,5 @@
+C:\svluppo\misc\DIP.Wrong\end\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\svluppo\misc\DIP.Wrong\end\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\svluppo\misc\DIP.Wrong\end\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\svluppo\misc\DIP.Wrong\end\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\svluppo\misc\DIP.Wrong\end\DemoLibrary\obj\Debug\DemoLibrary.pdb

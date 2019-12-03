@@ -1,0 +1,9 @@
+C:\svluppo\misc\DIP.Wrong\end\DemoLibrary\bin\Debug\DIP.Right.dll
+C:\svluppo\misc\DIP.Wrong\end\DemoLibrary\bin\Debug\DIP.Right.pdb
+C:\svluppo\misc\DIP.Wrong\end\DemoLibrary\obj\Debug\DIP.Right.dll
+C:\svluppo\misc\DIP.Wrong\end\DemoLibrary\obj\Debug\DIP.Right.pdb
+C:\svluppo\misc\SOLID_snippets\DIP.Right\bin\Debug\DIP.Right.dll
+C:\svluppo\misc\SOLID_snippets\DIP.Right\bin\Debug\DIP.Right.pdb
+C:\svluppo\misc\SOLID_snippets\DIP.Right\obj\Debug\DIP.Right.csprojAssemblyReference.cache
+C:\svluppo\misc\SOLID_snippets\DIP.Right\obj\Debug\DIP.Right.dll
+C:\svluppo\misc\SOLID_snippets\DIP.Right\obj\Debug\DIP.Right.pdb
