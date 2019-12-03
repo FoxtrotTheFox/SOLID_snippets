@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SRP1.Right
+namespace SRP.Right
 {
     class Program
     {

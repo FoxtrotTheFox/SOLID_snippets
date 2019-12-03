@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SRP1.Right
+namespace SRP.Right
 {
     public interface IPrinter
     {

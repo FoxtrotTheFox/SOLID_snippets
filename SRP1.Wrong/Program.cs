@@ -1,6 +1,5 @@
-﻿using System;
-
-namespace SRP1.Wrong
+﻿
+namespace SRP.Wrong
 {
     class Program
     {

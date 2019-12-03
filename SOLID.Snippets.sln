@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SRP1.Wrong", "SRP1.Wrong\SRP1.Wrong.csproj", "{29940821-F92E-471F-905A-DED44ADD7DD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SRP.Wrong", "SRP1.Wrong\SRP.Wrong.csproj", "{29940821-F92E-471F-905A-DED44ADD7DD2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCP.Right", "OCP.Right\OCP.Right.csproj", "{1786EFA9-D3F9-4AAD-8B7C-D52489D7111E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SRP1.Right", "SRP1.Right\SRP1.Right.csproj", "{5D5959F5-1604-43F1-A237-57BF06AF1A17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SRP.Right", "SRP1.Right\SRP.Right.csproj", "{5D5959F5-1604-43F1-A237-57BF06AF1A17}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCP.Wrong", "OCP.Wrong\OCP.Wrong.csproj", "{1FFBBBB7-DDE6-4BA5-BBBE-016DB945D30E}"
 EndProject

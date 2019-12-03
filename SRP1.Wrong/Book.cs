@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SRP1.Wrong
+namespace SRP.Wrong
 {
     public class Book
     {
