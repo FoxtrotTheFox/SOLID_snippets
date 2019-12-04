@@ -24,7 +24,7 @@ namespace DIP.Wrong
             log.Log($"Completed { ProjectName }");
 
             Emailer emailer = new Emailer();
-            emailer.SendEmail(Owner, $"The chore { ProjectName } is complete.");
+            emailer.SendEmail(Owner, $"The project { ProjectName } is complete.");
         }
     }
 }
