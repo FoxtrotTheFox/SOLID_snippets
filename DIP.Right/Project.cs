@@ -32,7 +32,7 @@ namespace DIP.Right
         {
             IsComplete = true;
             _logger.Log($"Completed { ProjectName }");
-            _messageSender.SendMessage(Owner, $"The chore { ProjectName } is complete.");
+            _messageSender.SendMessage(Owner, $"The project { ProjectName } is complete.");
         }
     }
 }
